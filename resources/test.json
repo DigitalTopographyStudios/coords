@@ -1,1 +1,7 @@
-
+{
+  "name": "test resource",
+  "url":"https://test.com",
+  "description":"Test description"
+  "categories":["test category"]
+  "tags":["test tag 1", "test tag 2"]
+}
